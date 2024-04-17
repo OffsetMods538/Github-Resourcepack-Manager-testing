@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"description": "Testing pack",
+		"description": "Testing packt",
         "supported_formats": {"min_inclusive": 15, "max_inclusive": 30},
 		"pack_format": 9
 	}
